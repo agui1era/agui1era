@@ -3,7 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oaguileraz/)
 [![YouTube](https://img.shields.io/badge/YouTube-Drones%20%C2%B7%20IoT%20%C2%B7%20IA-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@oscaraguilera9552)
-[![GitHub Repos](https://img.shields.io/badge/GitHub-28%20Public%20Repos-181717?style=flat-square&logo=github)](https://github.com/agui1era?tab=repositories)
+[![aLabs](https://img.shields.io/badge/aLabs-alabs.cl-2F855A?style=flat-square)](https://alabs.cl)
+[![GitHub Repos](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github)](https://github.com/agui1era?tab=repositories)
 [![Location](https://img.shields.io/badge/Location-Chile-red?style=flat-square&logo=google-maps)](https://github.com/agui1era)
 
 ---
@@ -11,10 +12,10 @@
 ### 🌐 About Me / Sobre Mí
 
 **English**
-Applied AI Engineer specializing in **Edge Intelligence**, **Computer Vision**, **IoT Hardware Integration**, and **Generative AI Workflows**. I bridge the gap between embedded hardware (Raspberry Pi, ESP32, Industrial Sensors) and scalable cloud platforms—building production-ready MVPs that transform physical inputs into real-time digital intelligence.
+Electronic Engineer (PUCV) working in applied AI, specializing in **Edge Intelligence**, **Computer Vision**, **IoT Hardware Integration**, and **Generative AI Workflows**. I bridge the gap between embedded hardware (Raspberry Pi, ESP32, Industrial Sensors) and scalable cloud platforms—building production-ready MVPs that transform physical inputs into real-time digital intelligence.
 
 **Español**
-Ingeniero en Inteligencia Artificial Aplicada especializado en **Edge Intelligence**, **Visión por Computador**, **Integración Hardware IoT** y **Flujos de IA Generativa**. Diseño e implemento MVPs de extremo a extremo que conectan dispositivos físicos (Raspberry Pi, ESP32, sensores industriales) con plataformas cloud y APIs de alto rendimiento.
+Ingeniero Civil Electrónico (PUCV) dedicado a la Inteligencia Artificial aplicada, especializado en **Edge Intelligence**, **Visión por Computador**, **Integración Hardware IoT** y **Flujos de IA Generativa**. Diseño e implemento MVPs de extremo a extremo que conectan dispositivos físicos (Raspberry Pi, ESP32, sensores industriales) con plataformas cloud y APIs de alto rendimiento.
 
 ---
 
@@ -27,7 +28,8 @@ Ingeniero en Inteligencia Artificial Aplicada especializado en **Edge Intelligen
 * **Overview**: Plug-and-play smart camera system running on Raspberry Pi. Features automatic captive portal fallback when WiFi is disconnected, allowing mobile configuration without physical access. Captures real-time frames and ingests base64 payloads directly into cloud analytics endpoints.
 * **Key Innovation**: Automatic NetworkManager hotspot switching (`IrisCamera-Setup`), mobile-friendly Flask captive portal, systemd auto-start daemon, and low-latency API streaming.
 * **Tech Stack**: `Python`, `NetworkManager (nmcli)`, `Flask`, `Base64/REST API`, `Systemd`, `Raspbian Trixie`.
-* **Repository**: [`agui1era/iris`](https://github.com/agui1era/iris)
+* **Product**: IRIS by aLabs. Each camera gets a plain-language instruction about what to pay attention to; AI evaluates every photo and sends an email alert with the photo when it matters. More at [alabs.cl](https://alabs.cl).
+* **Repository**: private (product in production).
 </details>
 
 <details open>
@@ -50,7 +52,7 @@ Ingeniero en Inteligencia Artificial Aplicada especializado en **Edge Intelligen
 * **Projects**:
   * [`RAG`](https://github.com/agui1era/RAG): Document indexing and vector search for accurate enterprise QA.
   * [`TTS-Sidecar`](https://github.com/agui1era/TTS-Sidecar): High-performance text-to-speech sidecar microservice.
-  * [`4oChat`](https://github.com/agui1era/4oChat) & [`GPTalk`](https://github.com/agui1era/GPTalk): Multi-turn AI assistant integrations.
+  * [`GPTalk`](https://github.com/agui1era/GPTalk): Multi-turn AI assistant integration.
 * **Tech Stack**: `LangChain / LlamaIndex`, `Vector Databases`, `OpenAI / Gemini APIs`, `Python`, `FastAPI`.
 </details>
 
@@ -95,6 +97,7 @@ Fuera del trabajo vuelo drones y armo experimentos de IoT e IA, y los documento 
 ### 📫 Get in Touch / Contacto
 
 * 📧 **Email**: `oscar@aguilera.xyz`
+* 🌐 **Website**: [alabs.cl](https://alabs.cl)
 * 📍 **Location**: Chile
 * 💼 **LinkedIn**: [linkedin.com/in/oaguileraz](https://www.linkedin.com/in/oaguileraz/)
 * 🎥 **YouTube**: [@oscaraguilera9552](https://www.youtube.com/@oscaraguilera9552)
