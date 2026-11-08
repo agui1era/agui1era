@@ -1,7 +1,8 @@
 # Oscar Aguilera
 ### Applied AI Engineer | Edge Intelligence | Computer Vision & IoT Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://github.com/agui1era)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oaguileraz/)
+[![YouTube](https://img.shields.io/badge/YouTube-Drones%20%C2%B7%20IoT%20%C2%B7%20IA-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@oscaraguilera9552)
 [![GitHub Repos](https://img.shields.io/badge/GitHub-28%20Public%20Repos-181717?style=flat-square&logo=github)](https://github.com/agui1era?tab=repositories)
 [![Location](https://img.shields.io/badge/Location-Chile-red?style=flat-square&logo=google-maps)](https://github.com/agui1era)
 
@@ -79,8 +80,22 @@ Ingeniero en Inteligencia Artificial Aplicada especializado en **Edge Intelligen
 
 ---
 
+### 🎥 Off the Clock / Fuera de la Pega
+
+**English**
+Outside of work I fly drones and build IoT and AI experiments, and I document them on YouTube.
+
+**Español**
+Fuera del trabajo vuelo drones y armo experimentos de IoT e IA, y los documento en YouTube.
+
+▶️ [youtube.com/@oscaraguilera9552](https://www.youtube.com/@oscaraguilera9552)
+
+---
+
 ### 📫 Get in Touch / Contacto
 
 * 📧 **Email**: `aguileraelectro@gmail.com`
 * 📍 **Location**: Chile
-* 💼 **GitHub**: [github.com/agui1era](https://github.com/agui1era)
+* 💼 **LinkedIn**: [linkedin.com/in/oaguileraz](https://www.linkedin.com/in/oaguileraz/)
+* 🎥 **YouTube**: [@oscaraguilera9552](https://www.youtube.com/@oscaraguilera9552)
+* 💻 **GitHub**: [github.com/agui1era](https://github.com/agui1era)
