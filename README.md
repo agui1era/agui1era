@@ -94,8 +94,8 @@ Fuera del trabajo vuelo drones y armo experimentos de IoT e IA, y los documento 
 
 ### 📫 Get in Touch / Contacto
 
-* 📧 **Email**: `aguileraelectro@gmail.com`
+* 📧 **Email**: `oscar@aguilera.xyz`
 * 📍 **Location**: Chile
 * 💼 **LinkedIn**: [linkedin.com/in/oaguileraz](https://www.linkedin.com/in/oaguileraz/)
 * 🎥 **YouTube**: [@oscaraguilera9552](https://www.youtube.com/@oscaraguilera9552)
-* 💻 **GitHub**: [github.com/agui1era](https://github.com/agui1era)
+
